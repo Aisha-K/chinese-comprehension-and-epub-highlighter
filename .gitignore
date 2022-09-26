@@ -1,0 +1,7 @@
+/core/__pycache__
+.DS_STORE
+/books
+/data/*.txt
+output.txt
+mega_book.py
+/char_freqs_output/*.csv
